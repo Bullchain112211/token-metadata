@@ -1,0 +1,15 @@
+{
+    "name": "YourTokenName", 
+    "symbol": "YOUR_SYMBOL", 
+    "uri": "https://username.github.io/repository-name/metadata.json", 
+    "sellerFeeBasisPoints": 500, 
+    "creators": [
+        {
+            "address": "YOUR_CREATOR_ADDRESS",
+            "verified": true,
+            "share": 100
+        }
+    ],
+    "image": "https://raw.githubusercontent.com/Bullchain112211/token-metadata/56986bcb16f990b4d2e6e1215c562cdd7fd159b8/Untitled%20design%20(39).png"
+
+}
